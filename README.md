@@ -3,6 +3,7 @@
 <p align="center">
   18 · self-taught developer · ceo of
   <a href="https://xr7uz.xyz"><b>xr7uz.xyz</b></a>
+    <a href="https://fivem.xr7uz.xyz"><b>fivem.xr7uz.xyz</b></a>
 </p>
 
 <br>
@@ -12,7 +13,7 @@
 I build for the web and ship it — full-stack with React, Next.js, TypeScript and MySQL,
 from database schemas and auth down to pixel-perfect UI.
 
-Currently building [**XR7UZ Journal**](https://xr7uz.xyz) — a private trading journal for
+Currently builded [**XR7UZ Journal**](https://xr7uz.xyz) — a private trading journal for
 forex, gold & crypto traders. Trade logging, calendar, analytics, reviews, public trader
 profiles, TOTP 2FA. One person, one codebase, live at [xr7uz.xyz](https://xr7uz.xyz).
 
